@@ -73,15 +73,15 @@
   "friends": [
     {
       "userId": 1,
-      "fiendId": 2
+      "friendId": 2
     },
     {
       "userId": 1,
-      "fiendId": 3
+      "friendId": 3
     },
     {
       "userId": 2,
-      "fiendId": 3
+      "friendId": 3
     }
   ],
   "posts": [
